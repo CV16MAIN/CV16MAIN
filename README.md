@@ -1,6 +1,6 @@
 ### Hey there!
 
-My name is **Void Main**, the owner of **CV16**.
+My name is **Void Main**.
 
 Right now I’m focused on learning **C++** and exploring the deeper side of **computer science**.  
 I enjoy working close to the system and understanding how things actually work under the hood.
