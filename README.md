@@ -1,51 +1,14 @@
-### Hey there!
+# Void Main
 
-My name is **Void Main**.
+Currently learning **C++** and exploring **low-level programming** to understand how software works under the hood.
 
-Right now I’m focused on learning **C++** and exploring the deeper side of **computer science**.  
-I enjoy working close to the system and understanding how things actually work under the hood.
+Interested in:
 
-I’m particularly interested in:
-- Reverse Engineering
-- Windows API
-- Memory manipulation
-- Low-level and system programming
+* System Programming
+* Windows API
+* Reverse Engineering
+* Memory Internals
 
-I have experience with **JavaScript** and **C#**, but currently my main focus is **C++** and system-level development.
+Right now I'm building **WinSloth** — a fast Windows file search tool focused on speed, simplicity, and learning how desktop software works at a deeper level.
 
----
-
-### Current Progress
-
-C++ Learning Progress
-
-[███░░░░░░░] 30%
-
-Basics: 10% Complete  
-Memory & Pointers: In Progress  
-Windows API: Exploring  
-
----
-
-### What I Enjoy Learning
-
-- How operating systems interact with programs  
-- How memory works internally  
-- Reverse engineering software  
-- Building tools that interact with the system
-
----
-
-### Fun Facts
-
-- I enjoy watching coding content from **Coding Jesus**
-- Learning C++ using **learncpp.com**
-- I like watching **The Cherno** and **Fireship**
-- Big fan of **Elon Musk**
-- I enjoy exploring deep technical topics in computer science
-
----
-
-### Goals
-
-Become highly skilled in **low-level programming**, **reverse engineering**, and **system architecture**.
+My goal is to become skilled in low-level development and gain a strong understanding of operating systems, memory, and system architecture.
