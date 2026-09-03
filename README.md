@@ -1,14 +1,20 @@
-# Void Main
+# Ekansh Joshi
 
-Currently learning **C++** and exploring **low-level programming** to understand how software works under the hood.
+I am an 18-year-old developer specializing in Fullstack and Web3 architecture. I apply low-level C++ mechanics and memory architecture principles to build secure, high-throughput protocols on the Solana Virtual Machine (SVM).
 
-Interested in:
+### ⚙️ Technical Allocation
+My technical bandwidth is strictly bifurcated to optimize for execution speed and user adoption[cite: 1]:
+* **The Execution Layer (80%):** Rust, Anchor, and bare-metal SVM architecture[cite: 1]. Focused on memory safety, secure Program Derived Addresses (PDAs), and cross-program invocations[cite: 1].
+* **The Presentation Layer (20%):** Next.js, Tailwind CSS, and `@solana/kit` (Web3.js v2)[cite: 1]. Building frictionless Web2 interfaces to abstract blockchain complexities away from the end-user[cite: 1].
 
-* System Programming
-* Windows API
-* Reverse Engineering
-* Memory Internals
+### 🚀 Currently Building: Solana Eater
+I am currently building **Solana Eater**—a multi-wallet aggregator designed to track true liquidity and PnL across multiple addresses. 
+* **Current State:** Writing core multi-wallet balance aggregation logic and DOM manipulation in JavaScript.
+* **Next Phase:** Migrating the presentation layer to Next.js and integrating Solana Actions/Blinks for seamless UX[cite: 1]. 
 
-Right now I'm building **WinSloth** — a fast Windows file search tool focused on speed, simplicity, and learning how desktop software works at a deeper level.
+### 🧠 Core Competencies
+* **Systems & Security:** C++ Memory Internals, Reverse Engineering, Rust Ownership Model[cite: 1].
+* **Web3 Infrastructure:** Dynamic Compute Limits, Priority Fees, RPC Data Fetching[cite: 1]. 
+* **Frontend UX:** JavaScript, TypeScript, React, Tailwind[cite: 1].
 
-My goal is to become skilled in low-level development and gain a strong understanding of operating systems, memory, and system architecture.
+> *Building in public. Check my X (Twitter) for weekly technical alpha and visual ship logs.*[cite: 1]
